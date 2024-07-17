@@ -1,5 +1,6 @@
 ### Hi there 👋
 - I'm Suraj, Software Engineer, Data team at [Simpl](https://getsimpl.com/).
+- Personal Github: [surajv311](https://github.com/Surajv311)
 
 <!--
 **surajvm1/surajvm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
